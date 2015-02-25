@@ -1,0 +1,8 @@
+Tags:
+Preconditions:
+AtSpringer:
+#Open URL "http://materials.springer.com"
+#Enter search string "Ad"
+#Click search button
+#Verify search result is "1,188 Result(s) for 'Ad'"
+
